@@ -14,7 +14,8 @@
         Console.WriteLine("Enter B:")
         b = Console.ReadLine()
         c = a - b
-        Console.WriteLine("substraction is :" + c.ToString());
+        Console.WriteLine("substraction is :" + c.ToString())
+        Console.WriteLine("Hellow world")
         Console.Read()
     End Sub
 
