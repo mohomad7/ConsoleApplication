@@ -4,7 +4,12 @@
         Console.WriteLine("Hellow world...")
         Console.WriteLine("updating...")
         Console.WriteLine("updating...")
-        Console.WriteLine("Hellow world...")
+        Console.WriteLine("Enter A :")
+        Dim a As Integer = Console.ReadLine()
+        Console.WriteLine("Enter B:")
+        Dim b As Integer = Console.ReadLine()
+        Dim c As Integer = a + b
+        Console.WriteLine("Addition is :" + c.ToString())
         Console.Read()
     End Sub
 
