@@ -7,3 +7,4 @@ C:\Users\Administrator\Desktop\Test\ConsoleApplication1\ConsoleApplication1\obj\
 C:\Users\Administrator\Desktop\Test\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Administrator\Desktop\Test\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
 C:\Users\Administrator\Desktop\Test\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Desktop\Test\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbprojResolveAssemblyReference.cache
